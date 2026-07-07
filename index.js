@@ -70,7 +70,7 @@ setInterval(() => {
     }
 }, 30_000) // check every 30 seconds
 
-let phoneNumber = "911234567890"
+let phoneNumber = "40755383254"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
 global.botname = "KNIGHT BOT"
@@ -286,7 +286,7 @@ async function startXeonBotInc() {
             console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: mrunqiuehacker`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: MR UNIQUE HACKER`))
-            console.log(chalk.green(`${global.themeemoji || '•'} 🤖 Bot Connected Successfully! ✅`))
+            console.log(chalk.green(`${global.themeemoji || '•'}Sunt aici coaie`))
             console.log(chalk.blue(`Bot Version: ${settings.version}`))
         }
         
